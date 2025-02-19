@@ -12,6 +12,7 @@ To run the project, **clone the repository**, **set up MySQL** with the provided
 ![Screenshot (152)](https://github.com/user-attachments/assets/11b929da-2ab8-4d2a-b0f3-0732d29af553)
 The video to see the chatbot in action.
 **Video**
+
 https://github.com/user-attachments/assets/21af1759-6674-453c-b374-69cb6713c2e9
 This project is licensed under the MIT License – see the LICENSE file for details.
 
