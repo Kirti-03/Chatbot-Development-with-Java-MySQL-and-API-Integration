@@ -11,6 +11,7 @@ To run the project, **clone the repository**, **set up MySQL** with the provided
 ![Screenshot (144)](https://github.com/user-attachments/assets/3f42d21e-c4a9-40bd-8ef0-20a49f0d3ecb)
 ![Screenshot (152)](https://github.com/user-attachments/assets/11b929da-2ab8-4d2a-b0f3-0732d29af553)
 The video to see the chatbot in action.
+
 **Video**
 
 https://github.com/user-attachments/assets/21af1759-6674-453c-b374-69cb6713c2e9
